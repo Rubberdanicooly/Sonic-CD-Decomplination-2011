@@ -2,7 +2,7 @@
 
 A complete decompilation of Retro Engine v3.
 
-# **SUPPORT THE OFFICIAL RELEASE OF SONIC CD**
+# **SUPPORT MY FANMADE RELEASE OF SONIC CD**
 + Without assets from the official release, this decompilation will not run.
 
 + You can get an official release of Sonic CD from:
@@ -116,11 +116,8 @@ If you're able to, you can clone this repo and port it to a platform not on the 
 You can find the FAQ [here](./FAQ.md).
 
 # Special Thanks
-* [Xeeynamo](https://github.com/Xeeynamo): for creating the RSDK Animation editor & an early version of the script unpacker, both of which got me into RSDK modding.
-* [Sappharad](https://github.com/Sappharad): for making a decompilation of the Windows Phone 7 version of Sonic CD (found [here](https://github.com/Sappharad/rvm_soniccd)) which gave me the idea & motivation to decompile the PC/iOS/Android versions.
-* [SuperSonic16](https://github.com/TheSuperSonic16): for creating & adding some stuff to the Sonic CD mod loader that I asked for.
-* [The Weigman](https://github.com/TheWeigman) for creating the header you see up here along with similar assets.
-* Everyone in the [Retro Engine Modding Server](https://dc.railgun.works/retroengine) for being supportive of me and for giving me a place to show off these things that I've found.
+* [Rubberdanycooly
+  
 
 # Contact:
-Join the [Retro Engine Modding Discord Server](https://dc.railgun.works/retroengine) for any extra questions you may need to know about the decompilation or modding it.
+https://youtu.be/dQw4w9WgXcQ?si=UiXw1GDuvh25cddo
